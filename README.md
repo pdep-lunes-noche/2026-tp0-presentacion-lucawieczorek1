@@ -20,3 +20,5 @@ El año pasado viví uno de los momentos más difíciles de mi vida: sufrí una 
 
 - Conseguir mi primer trabajo ligado a lo que me apasiona y arrancar mi carrera profesional.
 - Aprobar todas las materias que me quedan de 2do año.
+
+![Mi foto](fotopresentacion.jpg)
